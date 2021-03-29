@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437105066276",
+    "project_id": "game-rating-243f6",
+    "storage_bucket": "game-rating-243f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437105066276:android:ef7183b095cf28749bf3b1",
+        "android_client_info": {
+          "package_name": "edu.lewisu.cs.corriganry.gameratingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437105066276-ss69g8svkq545c4d36q4o006nqls1igh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmbe6lQuM5l7Cee2SgqV75WDzUsPc4dmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437105066276-ss69g8svkq545c4d36q4o006nqls1igh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
